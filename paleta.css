@@ -1,0 +1,44 @@
+/* Código para Paleta de cores */
+
+.main{
+    background-color: #00E676;
+}
+
+.slash{
+    background-color: #69F0AE;
+}
+.primary-bc{
+background-color: #FFFFFF;
+}
+
+.second-bc{
+background-color: #CECECE;
+}
+
+.text-color-default{
+  color: #000000;
+}
+
+.text-color {
+
+}
+
+.descricao {
+       padding: 10px 0px;
+      color: #5A5A5A;
+      line-height: 1.2;
+      font-style: initial;
+}
+
+.profissao{
+   color: #00C853;
+}
+
+/* sombra para card superior 
+
+-webkit-box-shadow: 4px 0px 19px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 0px 19px 1px rgba(0,0,0,0.75);
+box-shadow: 4px 0px 19px 1px rgba(0,0,0,0.75);
+Copy Text
+
+*/
